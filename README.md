@@ -41,7 +41,7 @@ This page is mostly just for documentation, notes, and useful resources I have u
 
 <a name="random"/>
 
-# Random Info
+## Random Info
 | Name | Description | Link | Author |
 | ---- | ----------- | ---- | ------ |
 | The 2018 Web Developer Roadmap | This page gives a good roadmap on what a web developer should be learning. It covers topics that a back-end or front-end dev should know while working in their field. | [codeburst.io](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) | Brandon Morelli |
