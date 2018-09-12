@@ -37,7 +37,7 @@ This page is mostly just for documentation, notes, and useful resources I have u
 ## Tools
 | Name | Description | Link | Author |
 | ---- | ----------- | ---- | ------ |
-| Webpack: From apprentice to master | Webpack is a powerful tool, with many parts to it to optimize and use your application, this book covers a wide scope of what is included in Webpack. | [survivejs.com](https://survivejs.com/webpack/foreword/) | Juho Vepsäläinen |
+| Webpack: From apprentice to master | Webpack is a powerful tool, with many parts to it to optimize and use your application, this book covers a wide scope of what is included in Webpack and the author play a huge role in developing it. | [survivejs.com](https://survivejs.com/webpack/foreword/) | Juho Vepsäläinen |
 
 <a name="random"/>
 
