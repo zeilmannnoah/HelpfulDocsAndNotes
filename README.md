@@ -3,6 +3,7 @@
   * [EcmaScript/JavaScript](#ecma)
 * [Frameworks](#frameworks)
   * [React.js](#react)
+* [Random Info](#random)
 
 <a name="languages"/>
 
@@ -26,3 +27,10 @@
 | Name | Description | Link | Author |
 | ---- | ----------- | ---- | ------ |
 | A Comprehensive Guide to Building Apps with React | This author does a good job covering important ideas and terms used in the React.js framework in a short guide. | [tylermcginnis.com](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) | Tyler McGinnis |
+
+<a name="random"/>
+
+# Random Info
+| Name | Description | Link | Author |
+| ---- | ----------- | ---- | ------ |
+| The 2018 Web Developer Roadmap | This page gives a good roadmap on what a web developer should be learning. It covers topics that a back-end or front-end dev should know while working in their field. | [codeburst.io](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) | Brandon Morelli |
