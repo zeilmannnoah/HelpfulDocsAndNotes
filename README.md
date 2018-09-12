@@ -3,6 +3,7 @@
   * [EcmaScript/JavaScript](#ecma)
 * [Frameworks](#frameworks)
   * [React.js](#react)
+* [Tools](#tools)
 * [Random Info](#random)
 
 <a name="languages"/>
@@ -27,6 +28,13 @@
 | Name | Description | Link | Author |
 | ---- | ----------- | ---- | ------ |
 | A Comprehensive Guide to Building Apps with React | This author does a good job covering important ideas and terms used in the React.js framework in a short guide. | [tylermcginnis.com](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) | Tyler McGinnis |
+
+<a name="tools"/>
+
+# Tools
+| Name | Description | Link | Author |
+| ---- | ----------- | ---- | ------ |
+| Webpack: From apprentice to master | Webpack is a powerful tool, with many parts to it to optimize and use your application, this book covers a wide scope of what is included in Webpack. | [survivejs.com](https://survivejs.com/webpack/foreword/) | Juho Vepsäläinen |
 
 <a name="random"/>
 
