@@ -31,6 +31,7 @@ This page is mostly just for documentation, notes, and useful resources I have u
 | Name | Description | Link | Author |
 | ---- | ----------- | ---- | ------ |
 | A Comprehensive Guide to Building Apps with React | This author does a good job covering important ideas and terms used in the React.js framework in a short guide. | [tylermcginnis.com](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) | Tyler McGinnis |
+| React: From apprentice to master | Small React book showing how to build a simple Kanban in React | [survivejs.com](https://leanpub.com/survivejs-react) | Juho Vepsäläinen |
 
 <a name="tools"/>
 
