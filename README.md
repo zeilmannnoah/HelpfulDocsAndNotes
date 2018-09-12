@@ -1,4 +1,7 @@
-# Table of Contents
+# Helpful Documentation and Notes
+This page is mostly just for documentation, notes, and useful resources I have used and am still using in my learning experience.
+
+## Table of Contents
 * [Languages](#languages)
   * [EcmaScript/JavaScript](#ecma)
 * [Frameworks](#frameworks)
@@ -31,7 +34,7 @@
 
 <a name="tools"/>
 
-# Tools
+## Tools
 | Name | Description | Link | Author |
 | ---- | ----------- | ---- | ------ |
 | Webpack: From apprentice to master | Webpack is a powerful tool, with many parts to it to optimize and use your application, this book covers a wide scope of what is included in Webpack. | [survivejs.com](https://survivejs.com/webpack/foreword/) | Juho Vepsäläinen |
